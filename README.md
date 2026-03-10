@@ -1,0 +1,2 @@
+# POKER_GAME
+通过自己绘制的像素素材完成的通过一套扑克牌进行的1v1比点数大小游戏，包含一套点数规则和回合和最终结果的胜负判断（A 1v1 point-based game played with a deck of playing cards, utilizing pixel graphics created by oneself, encompassing a set of point rules, rounds, and the determination of the final outcome）
